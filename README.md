@@ -4,6 +4,8 @@
 
 ruvane@gmail.com | [Phone](+972-542-362074)  
 
+**Contact:** [ruvane@gmail.com](mailto:ruvane@gmail.com) | [+972-542-362074](tel:+972542362074)
+
 **LinkedIn:** [Ruvane Bernstein](https://www.linkedin.com/in/ruvanebernstein)
 # Selected Writing Samples
 - [Google Workspace Manage membership automatically with dynamic groups](https://knowledge.workspace.google.com/admin/groups/manage-membership-automatically-with-dynamic-groups)
