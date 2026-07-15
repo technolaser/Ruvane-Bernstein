@@ -68,5 +68,7 @@ Full portfolio available on request
 - **AI Specializations** — AI for Content Creation, AI for Writing & Communicating, AI Fundamentals (recent)
 - **Technical Writing** — Creating REST API Documentation (I’d Rather Be Writing), DITA & Structured Authoring (Scriptorium/Cherryleaf), Advanced Technical Content (UK Institute for Technical Writing)
 - **Other** — Salesforce Administration (Trailhead), Microsoft Certified Systems Engineer (Azlan)
+  
 ---
+
 **Earlier Career:** IT Project Management, Pre/Post-Sales Engineering & Technical Management roles (full details available upon request)
