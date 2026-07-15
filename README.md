@@ -1,4 +1,3 @@
-# Ruvane Bernstein
 **Senior Technical Writer**  
 **Hardware/Software Documentation • Embedded Systems • API & DevEx • AI/LLM Content**
 
