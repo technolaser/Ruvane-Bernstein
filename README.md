@@ -3,6 +3,9 @@
 
 [Email](ruvane@techno-laser.com) | [Phone](+972-542-362074)  
 
+| [Email](javascript:void(location.href='mailto:'+'ruvane'+'@'+'techno-laser.com')) | [Phone](tel:+972542362074) |
+| --- | --- |
+
 **LinkedIn:** [Ruvane Bernstein](https://www.linkedin.com/in/ruvanebernstein) {:target="_blank" rel="noopener noreferrer"}
 
 # Selected Writing Samples
