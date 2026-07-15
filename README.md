@@ -22,29 +22,29 @@ Full portfolio available on request
 ---
 
 ## Core Skills & Technologies
-- **Technical Writing & DevEx:** API documentation, firmware & hardware integration guides, prompt engineering, user-centered design for admins/developers, user manuals, technical specifications, knowledge bases
-- **AI & Modern Tools:** Gemini AI for content generation, prompt engineering, and LLM documentation
-- **Hardware & Electronics:** Embedded systems, AV hardware, schematics, troubleshooting guides, installation & service manuals, compliance documentation, MicroPython/ESP32 integration
+- **Technical writing & DevEx:** API documentation, firmware & hardware integration guides, prompt engineering, user-centered design for admins/developers, user manuals, technical specifications, knowledge bases
+- **AI & modern tools:** Gemini AI for content generation, prompt engineering, and LLM documentation
+- **Electronics & Hardware:** Embedded systems, AV hardware, schematics, troubleshooting guides, installation & service manuals, compliance documentation, MicroPython/ESP32 integration
 - **Tools:** Docs-as-Code (Markdown/Git), Swagger/OpenAPI, Jira, Slack, Oxygen XML Editor, FrameMaker, ReadMe, GitHub, Salesforce, DITA/XML, SharePoint
  
 ---
 
 ## Professional Experience
 ### Remote Technical Writer
-**Google** | 2019 – Present | California, USA (Remote)  
+**GOOGLE** | 2019 – Present | California, USA (Remote)  
 - Leveraged **Gemini AI** daily to accelerate creation, refinement, and synthesis of technical documentation for Google Workspace Admin Help Center, including AI-powered features
 - Maintained enterprise documentation using **Docs-as-Code** with strong focus on clarity and usability
 - Collaborated with engineering teams to document complex topics resulting in improved enterprise administrator experience
 ### Remote Technical Writer / Editor  
-**Bond Financials** | 2018 – 2019 | California, USA (Remote)  
+**BOND FINANCIALS** | 2018 – 2019 | California, USA (Remote)  
 - Authored comprehensive **REST API reference documentation** (Swagger/OpenAPI) and online help center, enabling seamless third-party integrations
 - Produced clear, actionable content for developers
 ### Remote Technical Writer / Editor  
-**Model N** | 2016 – 2018 | California, USA (Remote)  
+**MODEL N** | 2016 – 2018 | California, USA (Remote)  
 - Developed setup, configuration, administration, and user documentation for Salesforce SaaS platforms
 - Partnered with developers to document UI, functionality, error handling, and integrations
 ### Technical Writer / Editor  
-**Kramer Electronics** | 2010 – 2016 |
+**KRAMER ELECTRONICS** | 2010 – 2016 |
 - Authored **user manuals, installation guides, technical specifications, and service documentation** for professional AV **electronics hardware and software** to reduce support calls 
 - Collaborated closely with hardware engineers and programmers on schematics, system integration, software, troubleshooting procedures, and compliance content
 - Improved documentation consistency, usability, and quality through engineering partnerships; supported Salesforce implementations
