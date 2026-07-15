@@ -1,4 +1,4 @@
-<h1 style="display:none">Ruvane Bernstein</h1>
+# Ruvane Bernstein
 
 **Senior Technical Writer**  
 **Hardware/Software/Electronics Documentation • Embedded Systems • API & DevEx • AI/LLM Content**
