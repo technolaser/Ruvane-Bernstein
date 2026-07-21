@@ -20,7 +20,7 @@ Full portfolio available on request
 ---
 
 ## Professional Summary
-**Senior Technical Writer** and **Electronics Engineer**  with 20+ years delivering hardware, embedded systems, IoT, and API documentation for enterprise and developer audiences. Proven remote collaborator expert in Docs-as-Code, Gemini AI, Swagger/OpenAPI, and translating complex schematics/troubleshooting into user-friendly content. Seeking 100% remote, worldwide contracts in hardware/software/IoT/electronics technical writing.
+**Senior Technical Writer** and **Electronics Engineer**  with 20+ years delivering hardware, embedded systems, IoT, and API documentation for enterprise and developer audiences. Proven remote collaborator with expertise in Docs-as-Code, Gemini AI, Swagger/OpenAPI, and translating complex schematics/troubleshooting into user-friendly content. Seeking 100% remote, worldwide contracts in hardware/software/IoT/electronics technical writing.
 
 ---
 
