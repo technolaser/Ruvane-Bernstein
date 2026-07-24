@@ -25,10 +25,10 @@ Full portfolio available on request
 ---
 
 ## Core Skills & Technologies
-- **Technical writing & DevEx:** API documentation, firmware & hardware integration guides, prompt engineering, user-centered design for admins/developers, user manuals, technical specifications, knowledge bases
-- **AI & modern tools:** Gemini AI for content generation, prompt engineering, and LLM documentation
-- **Electronics & Hardware:** Embedded systems, AV hardware, schematics, troubleshooting guides, installation & service manuals, compliance documentation, MicroPython/ESP32 integration
-- **Tools:** Docs-as-Code (Markdown/Git), Swagger/OpenAPI, Jira, Slack, Oxygen XML Editor, FrameMaker, ReadMe, GitHub, Salesforce, DITA/XML, SharePoint
+- **Technical writing & DevEx:** API documentation, firmware & hardware integration guides, user-centric docs for admins/developers, user manuals, technical specifications, and knowledge bases
+- **AI & modern tools:** Gemini AI for content generation 
+- **Electronics & Hardware:** Embedded systems, AV hardware, schematics, troubleshooting guides, installation & service manuals, compliance documentation, and MicroPython/ESP32 integration
+- **Tools:** Docs-as-Code (Markdown/Git), Swagger/OpenAPI, Jira, Slack, Oxygen XML Editor, FrameMaker, GitHub, Salesforce, and SharePoint
  
 ---
 
@@ -36,14 +36,13 @@ Full portfolio available on request
 
 ### Remote Technical Writer
 **GOOGLE** | 2019 – Present | California, USA
-- Leveraged **Gemini AI** daily to accelerate creation, refinement, and synthesis of technical documentation for Google Workspace Admin Help Center
-- Managed complex content architectures at scale using Docs-as-Code and utilizing AI-driven documentation workflows to scale content production with a strong focus on clarity and usability
-- Collaborated with engineering teams to document complex topics resulting in improved enterprise administrator experience
+- Leveraged **Gemini AI** to accelerate creation, refinement, and accuracy of technical documentation for the Google Workspace Admin Help Center
+- Managed complex content architectures at scale using Docs-as-Code to scale content production with a strong focus on clarity and usability
+- Collaborated with engineering and product management teams to document complex topics resulting in an improved enterprise administrator experience and reduced support calls
 
 ### Remote Technical Writer / Editor
 **BOND FINANCIALS** | 2018 – 2019 | California, USA
-- Authored comprehensive **REST API reference documentation** (Swagger/OpenAPI) and online help center, enabling seamless third-party integrations
-- Produced clear, actionable content for developers
+- Authored comprehensive **REST API reference documentation** and online help center from scratch for the startup company to enable seamless third-party integrations for developers
 
 ### Remote Technical Writer / Editor
 **MODEL N** | 2016 – 2018 | California, USA
@@ -54,14 +53,14 @@ Full portfolio available on request
 **KRAMER ELECTRONICS** | 2010 – 2016 |
 - Authored **user manuals, installation guides, technical specifications, and service documentation** for professional AV **electronics hardware and software** to reduce support calls 
 - Collaborated closely with hardware engineers and programmers on schematics, system integration, software, troubleshooting procedures, and compliance content
-- Improved documentation consistency, usability, and quality through engineering partnerships; supported Salesforce implementations
+- Improved overall documentation consistency, usability, and quality through engineering partnerships
 *(Additional earlier roles at Intel, Ozvision, BigBand Networks, and pre-2010 engineering positions available upon request)*
 
 ---
 
 ## Hardware & Technical Projects
-- **Embedded Systems & Electronics:** Designed, documented, and troubleshot **ESP32-based monitoring systems** using MicroPython — including hardware integration, drivers, data logging, and troubleshooting guides
-- **AV Hardware/Software Documentation:** Produced end-to-end documentation for Kramer Electronics professional AV products (hardware-focused)
+- **Embedded Systems & Electronics:** Designed, documented, and diagnosed **ESP32-based monitoring systems** using MicroPython, including hardware integration, drivers, data logging, and troubleshooting guides
+- **AV Hardware/Software Documentation:** Produced documentation for professional AV products
 - **AI/LLM Applications:** Hands-on model training/fine-tuning with supporting technical documentation and AI-enhanced content workflows
 - **Systems & Optimization:** Configured high-performance computing clusters, BIOS tuning, and bare-metal environments; synthesized documentation for complex systems
 
@@ -70,9 +69,9 @@ Full portfolio available on request
 ## Education & Certifications
 - **BSc Electrical Engineering** — University of the Witwatersrand, Johannesburg, South Africa  
   *(Strong foundation in electronics, embedded systems, and hardware design)*
-- **AI Specializations** — AI for Content Creation, AI for Writing & Communicating, AI Fundamentals (recent)
+- **AI Specializations** — AI for Content Creation, AI for Writing & Communicating, AI Fundamentals (Google/Cousera)
 - **Technical Writing** — Creating REST API Documentation (I’d Rather Be Writing), DITA & Structured Authoring (Scriptorium/Cherryleaf), Advanced Technical Content (UK Institute for Technical Writing)
-- **Other** — Salesforce Administration (Trailhead), Microsoft Certified Systems Engineer (Azlan)
+- **Other** — Salesforce Administration (Salesforce Trailhead), Microsoft Certified Systems Engineer (Azlan)
   
 ---
 
